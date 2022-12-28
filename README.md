@@ -46,7 +46,7 @@
 
 | ![Dan's github stats](https://github-readme-stats.vercel.app/api?username=thedanoprean&show_icons=true&theme=tokyonight) | ![Dan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedanoprean&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedanoprean&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=thedanoprean&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thedanoprean&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=thedanoprean&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
