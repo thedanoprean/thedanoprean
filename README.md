@@ -13,7 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently a Computer Science Student at Technical University of Cluj-Napoca
+- 🔭 I graduated from Technical University of Cluj-Napoca, majoring in Computer Science
   
 - 🌱 I’m currently learning Javascript, React and Node.js
 
